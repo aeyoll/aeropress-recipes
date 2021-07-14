@@ -3,8 +3,8 @@
 Espresso style
 ---
 
-14g of coffee
-Grind size: Fine (8 clicks on Comandante C40 grinder)
+- 14g of coffee
+- Grind size: Fine (8 clicks on Comandante C40 grinder)
 
 1. Add coffee, flatten the bed
 2. Add 50-60 ml of water (85°c)
