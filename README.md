@@ -25,7 +25,7 @@ Filter coffee style
 
 | Coffee | Grind size |
 |-|-|
-| 14g | Medium (22-24 clicks on Comandante C40 grinder) |
+| 13g | Medium (22-24 clicks on Comandante C40 grinder) |
 
 ### Instructions
 
