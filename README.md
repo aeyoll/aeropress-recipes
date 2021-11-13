@@ -21,4 +21,20 @@ Espresso style
 Filter coffee style
 ---
 
-To be found!
+### Infos
+
+| Coffee | Grind size |
+|-|-|
+| 14g | Medium (22-24 clicks on Comandante C40 grinder) |
+
+### Instructions
+
+1. Prepare the aeropress in reverse position
+2. Add your coffee ground
+3. Blooming - add 30g water, stir 5x, wait until 30s
+4. At 30s, pour water until 180gr then stir again 5x
+5. Wait until 1:30
+6. Flip your AeroPress and press slowly for 1 minute - should finish at around 02:30.
+7. Wait 20-30 seconds, then serve and enjoy!
+
+**Total brew time**: around 1 minute
