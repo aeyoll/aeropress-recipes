@@ -37,4 +37,4 @@ Filter coffee style
 6. Flip your AeroPress and press slowly for 1 minute - should finish at around 02:30.
 7. Wait 20-30 seconds, then serve and enjoy!
 
-**Total brew time**: around 1 minute
+**Total brew time**: around 2.5 minutes
